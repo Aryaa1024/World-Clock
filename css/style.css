@@ -1,0 +1,15 @@
+.allPaths:hover{
+    fill: pink;
+    cursor: pointer;
+}
+#detail{
+    width: 300px;
+    /* height: 100px; */
+    position: absolute;
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 10px;
+    top: 70vh;
+    left: 10px;
+    display:none;
+}
